@@ -1,0 +1,12 @@
+{
+  "files.exclude": {
+    "node_modules/": true,
+    ".vscode/": true,
+    "typings/": true,
+    ".eslint*": true,
+    ".gitignore": true,
+    ".stylelintrc": true,
+    "jsconfig.json": true,
+    "README.md": true
+  }
+}
